@@ -1,0 +1,4 @@
+This contains some data generated for the simulation of a single GEM data using the parameters specified in final_details_log.txt
+
+Code has been included to generate histograms of the spread and a scatter diagram of the avalanche. Run it in ROOT using
+.x fullTree.c

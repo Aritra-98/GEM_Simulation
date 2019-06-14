@@ -1,0 +1,15 @@
+Parameters
+
+Delta_V = 600V
+E-induction = 3.5kV/cm
+E-drift = 2kV/cm
+V-anode = 0V
+V-bottom = -700 V
+V-top = -1300 V
+V-cathode = -1900 V
+
+Events (no. of primary electrons) simulated = 50
+Total avalanche electrons simulated (Theoretical Gain) = 52507
+Total electrons reaching anode (optical or effective gain) = 22634
+Mean transparency over 50 events = 0.410524
+Total transparency = total avalanche size/total electrons reaching anode = 0.431066

@@ -1,0 +1,1 @@
+This contains the .geo files needed to generate the geometry in GMSH and mesh it using the Frontal Delaunay Algorithm. Dimensions can be edited in the file named *_general.geo
